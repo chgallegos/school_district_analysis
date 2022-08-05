@@ -2,7 +2,7 @@
 ----
 ### Overview
 
-    -The purpose of this school district analysis was to conduct an analysis that excluded Thomas High School 9th grade's scores for both Math and Reading. The background given on the why of this decision was because the school board states that the data used shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders, which appear to have been altered. 
+The purpose of this school district analysis was to conduct an analysis that excluded Thomas High School 9th grade's scores for both Math and Reading. The background given on the why of this decision was because the school board states that the data used shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders, which appear to have been altered. 
 ----
 ### Results
 
