@@ -1,10 +1,11 @@
 # SCHOOL DISTRICT ANALYSIS
 ----
-### Overview
+## Overview
 
 The purpose of this school district analysis was to conduct an analysis that excluded Thomas High School 9th grade's scores for both Math and Reading. The background given on the why of this decision was because the school board states that the data used shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders, which appear to have been altered. 
+
 ----
-### Results
+## Results
 
 How is the district summary affected?
 In the initial analysis, the district summary showed a slightly higher Average Math Score as well as a higher % of Passing Reading, this also influenced a change that can be seen on the % Overall Passing that reduced from a 65.2% to a 64.9%. The reason that the change are not substancial is because the numbers calculated in the new summary are based on the new_student_count, which excluded the students with NaN values.
@@ -101,6 +102,6 @@ FIX URL
 FIX URL
 ![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/per_school_type_challenge.png)
 ----
-### Summary 
+## Summary 
 
 In summary, after the ninth grade reading and math scores were replaced with Nans, we have been able to conclude that the major effect that was had was in the school summary calculated before considering the analysis only the 10th to 12th grade data. The analysis also changed numbers in the **scores by school spending** segment for the range of $631-$645. Another category that was influenced by this was -**Scores by school type** in which only charter schools number were affected. Lastly, the **Scores by school size** were affected but not in a significant way.
