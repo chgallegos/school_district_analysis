@@ -1,8 +1,8 @@
-# School District Analysis
-
+# SCHOOL DISTRICT ANALYSIS
+----
 ### Overview
 
--The purpose of this school district analysis was to conduct an analysis that excluded Thomas High School 9th grade's scores for both Math and Reading. The background given on the why of this decision was because the school board states that the data used shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders, which appear to have been altered. 
+    -The purpose of this school district analysis was to conduct an analysis that excluded Thomas High School 9th grade's scores for both Math and Reading. The background given on the why of this decision was because the school board states that the data used shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders, which appear to have been altered. 
 ----
 ### Results
 
@@ -11,7 +11,7 @@ In the initial analysis, the district summary showed a slightly higher Average M
 
 #### New_total_student_count
 
-![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/new_total_student_count.png
+![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/new_total_student_count.png)
 
 #### District Summary Including 9th grade
 
@@ -39,7 +39,7 @@ The performance relative to other school's was not substantially affected becaus
 
 #### School Summary calculated from 10th - 12th grade data
 
-![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/school_summary_excluding_9th_grade.png)
+![Screenshot]https://github.com/chgallegos/school_district_analysis/blob/main/Resources/school_summary_excluding_9th_%20grade.png)
 
 #### Performance Including 9th grade
 
@@ -92,10 +92,13 @@ How does replacing the ninth-grade scores affect the following:
 
 #### Per school spending including 9th grade
 
+
+FIX URL
 ![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/per_school_type_module.png)
 
 #### Per school spending excluding 9th grade
 
+FIX URL
 ![Screenshot](https://github.com/chgallegos/school_district_analysis/blob/main/Resources/per_school_type_challenge.png)
 ----
 ### Summary 
