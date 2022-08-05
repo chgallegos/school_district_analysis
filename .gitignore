@@ -1,3 +1,6 @@
+# Specific folder
+/Users/chrisgallegos/Programming/Bootcamp/Modules/Module 4/school_district_analysis
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
